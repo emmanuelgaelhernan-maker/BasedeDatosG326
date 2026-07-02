@@ -50,7 +50,7 @@ no importa el curso
 -Determinar la Razon de cardinalidad
 -Determinar la particion 
 
-![solucion Ej2](/img/ER/Captura%20de%20pantalla_2026-06-07_19-02-58.png)
+![solucion Ej2](/img/ER/IDPROFE.png)
 
  #Ejercio 3
  Una escuela admistra alumnos y materias
@@ -75,7 +75,7 @@ no importa el curso
     >Fecha de inscribcion
     >Calificaciones 
 
-![solucionEj3](/img/ER/Ejercicio3-R%20-%20Página%201.png)
+![solucionEj3](/img/ER/Ejercicioalu.png)
 Nota: relacion se debe de llamar 
 **Inscribe**
 ###Ejercio 4
@@ -106,3 +106,5 @@ Nota: relacion se debe de llamar
 
 ![SolucionEj4](/img/ER/Captura%20de%20pantalla_2026-06-23_14-42-06.png)
 ###Solucion del Ejercio
+![Solucionej4](/img/ER/Empresa%20.png)
+
