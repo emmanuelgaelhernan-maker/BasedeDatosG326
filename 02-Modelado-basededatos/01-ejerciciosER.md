@@ -1,4 +1,4 @@
-#EJERCIOS MODELADO  E-R
+###EJERCIOS MODELADO  E-R
 
 ##Ejercio 1.
 Un hospital registra información de sus pacientes.
@@ -105,6 +105,7 @@ Nota: relacion se debe de llamar
 -El el detalle del pedido almacena cantidad vendida  y precio de venta 
 
 ![SolucionEj4](/img/ER/Captura%20de%20pantalla_2026-06-23_14-42-06.png)
-###Solucion del Ejercio
+###Solucion del Ejercio.
 ![Solucionej4](/img/ER/Empresa%20.png)
+...
 

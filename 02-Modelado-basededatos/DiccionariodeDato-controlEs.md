@@ -1,5 +1,4 @@
-# Diccionario de datos de la base de datos control hospitalario 
-
+# Diccionario de datos de la base de datos control 
 1. Información General
 
 | Elemento | Valor |
@@ -95,7 +94,7 @@ Un hospital registra información de sus pacientes.
 
 ### Solución ejercicio Relacional
 
-![Solución Ej1](/img/ER/Tabla1.png)
+![Solución Ejer1](/img/ER/Tabla1.png)
 
 # Diccionario de datos de la base de datos control escolar 
 
