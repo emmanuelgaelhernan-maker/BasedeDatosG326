@@ -78,6 +78,7 @@ no importa el curso
 ![solucionEj3](/img/ER/Ejercicioalu.png)
 Nota: relacion se debe de llamar 
 **Inscribe**
+
 ###Ejercio 4
  Una empresa se dedican a la venta de productos al por mayor , y necesita registra lo siguente 
 >De los clientes , el cual es una persona moral
@@ -104,8 +105,64 @@ Nota: relacion se debe de llamar
 -El detallle no exite sin producto 
 -El el detalle del pedido almacena cantidad vendida  y precio de venta 
 
-![SolucionEj4](/img/ER/Captura%20de%20pantalla_2026-06-23_14-42-06.png)
 ###Solucion del Ejercio.
-![Solucionej4](/img/ER/Empresa%20.png)
+![SolucionEj4](/img/ER/Captura%20de%20pantalla_2026-06-23_14-42-06.png)
+...
+
+## Ejercicio 5
+
+Una empresa necesita administrar la información de sus empleados, departamentos, proyectos y dependientes.
+
+> De los empleados necesita almacenar:
+
+- NSS (Número de Seguro Social)
+- Nombre
+- Apellido
+- Fecha de nacimiento
+- Dirección
+- Sexo
+- Salario
+
+> De los departamentos necesita almacenar:
+
+- Número del departamento
+- Nombre del departamento
+- Ubicación
+- Fecha de inicio de administración
+
+> De los proyectos necesita almacenar:
+
+- Número del proyecto
+- Nombre del proyecto
+- Ubicación
+
+> De los dependientes necesita almacenar:
+
+- Nombre del dependiente
+- Fecha de nacimiento
+- Sexo
+
+> De la relación de trabajo en proyectos necesita almacenar:
+
+- Horas trabajadas por el empleado en cada proyecto
+
+### Reglas del negocio:
+
+1. Un departamento puede tener muchos empleados.
+2. Cada empleado pertenece a un solo departamento.
+3. Un empleado puede supervisar a varios empleados.
+4. Un empleado puede tener cero o un supervisor.
+5. Un departamento administra muchos proyectos.
+6. Cada proyecto es administrado por un solo departamento.
+7. Un empleado puede trabajar en varios proyectos.
+8. Un proyecto puede tener varios empleados trabajando en él.
+9. La relación "Trabaja en" debe almacenar las horas trabajadas.
+10. Un empleado puede tener cero o muchos dependientes.
+11. Cada dependiente pertenece a un solo empleado.
+12. Un dependiente no puede existir sin un empleado asociado.
+13. Un proyecto puede existir aunque no tenga empleados asignados.
+
+### Solución ejercicio 5
+![Solucionej5](/img/ER/Empresa%20.png)
 ...
 
